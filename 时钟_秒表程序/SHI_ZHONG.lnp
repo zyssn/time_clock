@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"Main.obj" 
+TO "SHI_ZHONG" 
+RAMSIZE(256) 
